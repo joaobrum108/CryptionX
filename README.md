@@ -1,30 +1,5 @@
-# CryptionX
+# Vue 3 + Vite
 
-CryptionX is a modern crypto SaaS landing page concept built with Vue 3 and Vuetify.  
-The project was created as a portfolio piece focused on a premium, futuristic and high-conversion interface.
+This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
-## Preview
-
-A dark, elegant and technology-driven landing page inspired by crypto dashboards, SaaS platforms and Web3 products.
-
-## Tech Stack
-
-- Vue 3
-- Vuetify
-- Vite
-- JavaScript
-- CSS
-
-## Features
-
-- Modern responsive landing page
-- Dark futuristic visual style
-- Hero section with call-to-action
-- Crypto/Web3 inspired interface
-- Clean component structure
-- Portfolio-ready layout
-
-## Project Setup
-
-```bash
-npm install
+Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
